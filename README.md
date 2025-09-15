@@ -29,16 +29,24 @@ ollama --version
 ## Setup Instructions
 
 ### 1. Clone this repository
-
 ```bash
 git clone https://github.com/<your-username>/helpdeskAIWeltec.git
 cd helpdeskAIWeltec
 ```
 
 ### 2. Install Ollama and pull models
+Start the server
+```bash
+ollama serve
+```
+Check models
+```bash
+ollama list
+```
+
+Pull a model (Mistral:7b-instruct)
 ```bash
 ollama pull mistral:7b-instruct
-ollama pull llama2
 ```
 
 Confirm model
