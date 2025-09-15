@@ -18,7 +18,7 @@ _Last updated: 2025-09_
 
 ## Capstone Lead
 - **Name:** Dax Roberts
-- ** Email:** Dax.Roberts@weltec.ac.nz
+- **Email:** Dax.Roberts@weltec.ac.nz
 
 ## VPN & Remote Access
 - **VPN server:** vpn2.weltec.ac.nz
