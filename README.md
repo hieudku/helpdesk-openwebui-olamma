@@ -56,11 +56,12 @@ ollama list
 
 ### 3. Run OpenWebUI with Docker
 ```bash
-docker run -d --name open-webui \
-  -p 3000:8080 \
-  -e OLLAMA_BASE_URL=http://host.docker.internal:11434 \
-  -e DEFAULT_MODEL=mistral:7b-instruct \
-  -v open-webui:/app/backend/data \
+docker run -d --name open-webui `
+  -p 3000:8080 `
+  -e OLLAMA_BASE_URL=http://host.docker.internal:11434 `
+  -e DEFAULT_MODEL=mistral:7b-instruct `
+  -v open-webui:/app/backend/data `
+  --restart unless-stopped `
   ghcr.io/open-webui/open-webui:main
 ```
 ### 4. Check the container is running
