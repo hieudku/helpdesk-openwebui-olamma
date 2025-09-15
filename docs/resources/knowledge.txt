@@ -1,0 +1,87 @@
+# WelTec School of IT — Helpdesk Reference
+_Last updated: 2025-09_
+
+## Contacts
+- **IT Helpdesk email:** help@it.weltec.ac.nz
+
+## Programme Manager
+- **Name:** Chalinor Baliuag
+- **Office:** T701
+- **Email:** chalinor.baliuag@weltec.ac.nz
+
+## Tech Support
+- **Name:** Jeff Echano
+- **Office:** T701
+- **Email:** jeff.echano@weltec.ac.nz
+- **General enquiries:** information@wandw.ac.nz
+  - **Phone:** 0800 788 399
+
+## VPN & Remote Access
+- **VPN server:** vpn2.weltec.ac.nz
+- **Login format:** `soit\username`
+- **Password:** same as Google Classroom password
+- **If login fails:** email Helpdesk (help@it.weltec.ac.nz)
+
+## Buildings & Rooms (T Block)
+- **Level 1 (T Block):** Reception, Te Whare Awhina, International reception, Student Hub, Cafeteria
+- **T601:** Software Engineering Lab
+- **T602:** IT Lab
+- **T603:** IT Lab
+- **T604:** IT Lab
+- **T605:** IT Lab
+- **T606:** IT Lab
+- **T607:** Networking Lab
+- **T608:** Networking Lab
+
+## Library
+- **L101:** Information Desk & Printing Services
+
+## Policies (summary)
+- **Printing quota:** 200 pages/semester; buy extra at reception.
+- **IT acceptable use:** No personal software installs on lab PCs; comply with academic standards.
+
+## How-Tos
+- **Reset password:** https://classroom.google.com → sign in with SoIT account → follow reset instructions.
+- **Find supervisor:** Check Moodle under your course; if unsure, contact Programme Manager.wsl
+- **Remote labs:** Connect to VPN, then RDP to machines named `T601-xx` or `T606-xx`.
+
+# WelTec Petone Campus – Key Locations
+
+## A Block
+- L2: Classrooms & office space
+- L1: Campus services, classrooms, office space
+
+## B Block
+- Shuttle Bus stop
+
+## C Block
+- L3: Classrooms
+- L2: Offices & Electrical workshops
+- L1: Classrooms & Electrical workshops
+- ICT services
+
+## N Block
+- Mechanical Engineering workshops
+- Automotive workshops
+- Plumbing, Gas and Drainlaying workshops
+
+## O Block
+- Te Whare Makawae – Hair on Campus
+- Aria Beauty
+- Electrical workshops
+
+## R Block
+- Bistro 107
+- Hospitality classrooms
+
+## Tower Block
+- Levels 3–7: Classrooms & office space
+- Level 2: Library, Learning Commons, Classrooms, Sky Bridge to A Block
+- Level 1: Reception, Te Whare Āwhina, International reception, Student hub, Café
+
+## Other
+- Main Entrance: Kensington Avenue (opposite Car Park)
+- Car Parks: Located near Buick Street and Cuba Street entrances
+- Shuttle Bus Stop: Beside B Block
+- Bus Stop: Along Udy Street
+
