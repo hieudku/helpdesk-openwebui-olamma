@@ -14,7 +14,10 @@ _Last updated: 2025-09_
 - **Office:** T701
 - **Email:** jeff.echano@weltec.ac.nz
 - **General enquiries:** information@wandw.ac.nz
-  - **Phone:** 0800 788 399
+- **Phone:** 0800 788 399
+
+## Capstone Lead
+- **Name:** Dax Roberts
 
 ## VPN & Remote Access
 - **VPN server:** vpn2.weltec.ac.nz
