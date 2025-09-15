@@ -25,26 +25,40 @@ Verify installation:
 ```bash
 docker --version
 ollama --version
-
+```
 ## Setup Instructions
 
 ### 1. Clone this repository
+
 ```bash
 git clone https://github.com/<your-username>/helpdeskAIWeltec.git
 cd helpdeskAIWeltec
+```
 
+### 2. Install Ollama and pull models
+```bash
 ollama pull mistral:7b-instruct
 ollama pull llama2
+```
 
+Confirm model
+```bash
 ollama list
+```
 
+### 3. Run OpenWebUI with Docker
+```bash
 docker run -d --name open-webui \
   -p 3000:8080 \
   -e OLLAMA_BASE_URL=http://host.docker.internal:11434 \
   -e DEFAULT_MODEL=mistral:7b-instruct \
   -v open-webui:/app/backend/data \
   ghcr.io/open-webui/open-webui:main
-
+```
+### 4. Check the container is running
+```bash
 docker ps
+```
 
+### 5. Access the interface
 http://localhost:3000
