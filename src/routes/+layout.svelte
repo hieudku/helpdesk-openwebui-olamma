@@ -684,8 +684,12 @@
 
 <svelte:head>
 	<title>CampusHelpdeskAI</title>
-	<link crossorigin="anonymous" rel="icon" href="{WEBUI_BASE_URL}/static/favicon.png" />
+	<link crossorigin="anonymous" rel="icon" href="{WEBUI_BASE_URL}/static/favicon-dark.png" />
 </svelte:head>
+
+
+<div class="min-h-screen flex flex-col bg-brand-dark text-white">
+  <div class="flex-1">
 
 {#if showRefresh}
 	<div class=" py-5">
@@ -695,7 +699,7 @@
 
 {#if loaded}
 	{#if $isApp}
-		<div class="flex flex-row h-screen">
+		<div class="flex flex-row h-full">
 			<AppSidebar />
 
 			<div class="w-full flex-1 max-w-[calc(100%-4.5rem)]">
@@ -706,6 +710,24 @@
 		<slot />
 	{/if}
 {/if}
+
+  </div>
+  <footer class="sticky bottom-0 bg-brand-dark border-t-2 border-brand-gold p-4 text-center text-sm space-y-1">
+    <p class="text-brand-white">
+      Developed by Team HSD (WelTec & Whitireia, 2025)
+    </p>
+    <p class="text-gray-300">
+      Built on
+      <a
+        href="https://github.com/open-webui/open-webui"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="underline hover:text-brand-gold"
+        >OpenWebUI</a
+      >
+    </p>
+  </footer>
+</div>
 
 
 <Toaster
