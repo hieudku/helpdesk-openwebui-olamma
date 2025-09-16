@@ -30,7 +30,7 @@ ollama --version
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/hieudku/helpdeskAIWeltec.git
+git clone https://github.com/hieudku/helpdesk-openwebui-ollama.git
 cd helpdeskAIWeltec
 ```
 
