@@ -28,5 +28,24 @@ export default defineConfig({
 	},
 	esbuild: {
 		pure: process.env.ENV === 'dev' ? [] : ['console.log', 'console.debug']
+	},
+	server: {
+		proxy: {
+			'/api': {
+				target: 'http://ai2.soit.local:8080',
+				changeOrigin: true,
+				secure: false
+			},
+			'/ollama': {
+				target: 'http://ai2.soit.local:8080',
+				changeOrigin: true,
+				secure: false
+			},
+			'/openai': {
+				target: 'http://ai2.soit.local:8080',
+				changeOrigin: true,
+				secure: false
+			}
+		}
 	}
 });
