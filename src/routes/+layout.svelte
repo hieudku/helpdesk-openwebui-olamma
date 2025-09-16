@@ -606,6 +606,9 @@
 			// Save Backend Status to Store
 			await config.set(backendConfig);
 			await WEBUI_NAME.set(backendConfig.name);
+			
+			// override frontend branding
+			await WEBUI_NAME.set("CampusHelpdeskAI");
 
 			if ($config) {
 				await setupSocket($config.features?.enable_websocket ?? true);
@@ -680,7 +683,7 @@
 </script>
 
 <svelte:head>
-	<title>{$WEBUI_NAME}</title>
+	<title>CampusHelpdeskAI</title>
 	<link crossorigin="anonymous" rel="icon" href="{WEBUI_BASE_URL}/static/favicon.png" />
 </svelte:head>
 
@@ -703,6 +706,7 @@
 		<slot />
 	{/if}
 {/if}
+
 
 <Toaster
 	theme={$theme.includes('dark')

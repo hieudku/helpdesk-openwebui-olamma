@@ -21,7 +21,11 @@ export default {
 					850: 'var(--color-gray-850, #262626)',
 					900: 'var(--color-gray-900, #171717)',
 					950: 'var(--color-gray-950, #0d0d0d)'
-				}
+				},
+				 brand: {
+					dark: '#05191aff',   // Dark teal
+					gold: '#201a06ff',   // Metallic gold
+        },
 			},
 			typography: {
 				DEFAULT: {
