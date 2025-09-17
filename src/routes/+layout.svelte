@@ -712,11 +712,11 @@
 {/if}
 
   </div>
-  <footer class="sticky bottom-0 bg-brand-dark border-t-2 border-brand-gold p-4 text-center text-sm space-y-1">
+  <footer class="sticky bottom-0 bg-brand-dark border-t-2 border-brand-gold p-4 text-center text-sm space-y-0.8">
     <p class="text-brand-white">
       Developed by Team HSD (WelTec & Whitireia, 2025)
     </p>
-    <p class="text-gray-300">
+    <p class="text-gray-200">
       Built on
       <a
         href="https://github.com/open-webui/open-webui"
