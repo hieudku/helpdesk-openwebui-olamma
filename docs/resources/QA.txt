@@ -1,0 +1,311 @@
+Chunk 1 – Helpdesk & Programme Manager
+
+Q: What is the IT Helpdesk email?
+A: The IT Helpdesk email is help@it.weltec.ac.nz
+.
+
+Q: Who is the Programme Manager for the School of IT?
+A: The Programme Manager is Chalinor Baliuag. His office is T701 and his email is chalinor.baliuag@weltec.ac.nz
+.
+
+Chunk 2 – Tech Support & Capstone Lead
+
+Q: Who can I contact for tech support?
+A: Contact Jeff Echano in T701, email jeff.echano@weltec.ac.nz
+, or for general enquiries email information@wandw.ac.nz
+ or phone 0800 788 399.
+
+Q: Who is the Capstone Lead?
+A: The Capstone Lead is Dax Roberts, email Dax.Roberts@weltec.ac.nz
+.
+
+Chunk 3 – VPN Basics
+
+Q: How do I connect to the VPN?
+A: Use server vpn2.weltec.ac.nz. Login format is soit\username and password is your Google Classroom password. If login fails, email help@it.weltec.ac.nz
+.
+
+Q: What is the login format for VPN?
+A: Use soit\username.
+
+Chunk 4 – Remote Labs
+
+Q: What should I do if my VPN login fails?
+A: Contact the IT Helpdesk at help@it.weltec.ac.nz
+.
+
+Q: How do I access remote labs?
+A: First connect to the VPN, then RDP to machines named T601-xx or T606-xx.
+
+Chunk 5 – T Block Facilities
+
+Q: Which rooms are IT labs in T Block?
+A:
+
+T601: Software Engineering Lab
+
+T602–T606: IT Labs
+
+T607–T608: Networking Labs
+
+Q: What is located on Level 1 of T Block?
+A: Reception, Te Whare Āwhina, International reception, Student Hub, and Cafeteria.
+
+Chunk 6 – Library & Shuttle
+
+Q: Where is the library information desk and printing services?
+A: In L101 of the Library.
+
+Q: Where is the Shuttle Bus stop on campus?
+A: Beside B Block.
+
+Chunk 7 – ICT Services
+
+Q: Where is ICT Services located?
+A:
+
+Petone: Room C124 (courtyard between B & C Blocks)
+
+Porirua: Room D307 (behind café, next to Campus Services)
+
+Q: What are the ICT Services hours?
+A: Monday–Friday, 8am–4pm.
+
+Chunk 8 – ICT Support
+
+Q: What services does ICT Support provide?
+A: Account support, Eduroam Wi-Fi, Moodle, Microsoft 365, and general IT help.
+
+Q: What is the ICT Services phone number and email?
+A: Phone: 04 830 3150. Email: servicecentre@wandw.ac.nz
+.
+
+Chunk 9 – Student Email
+
+Q: What is my student email format?
+A: Usually firstname.lastname##@student.wandw.ac.nz or firstname.lastname##@whitireianz.ac.nz.
+
+Q: Where do I access my student email?
+A: At outlook.office.com
+ with your student email and password.
+
+Chunk 10 – Student Email Setup
+
+Q: How do new students get their email details?
+A: Username and initial password are sent to your personal email after enrolment. You must update your password before using it.
+
+Q: Do returning students get a new email address?
+A: No, you keep the same student email. Contact ICT Services if you forget your details.
+
+Chunk 11 – Email Forwarding
+
+Q: How do I forward my student emails?
+A: In Outlook → Settings → Mail → Forwarding → Enable forwarding. You can choose to keep a copy of forwarded messages.
+
+Chunk 12 – Eduroam Basics
+
+Q: What is Eduroam?
+A: A free, secure Wi-Fi network available on all Whitireia & WelTec campuses and global Eduroam partner institutions.
+
+Q: How do I connect to Eduroam Wi-Fi?
+A: Search for eduroam in your Wi-Fi list → login with student email + password.
+
+Chunk 13 – Eduroam Setup & App
+
+Q: How do I set up Eduroam on Android?
+A:
+
+EAP method: PEAP
+
+Phase 2 authentication: MSCHAPV2
+
+Certificate: Do not validate/None
+
+Q: What app helps with Eduroam setup?
+A: Use the geteduroam app (iOS, Android, Windows).
+
+Chunk 14 – Printing Quotas
+
+Q: What is the printing quota per semester?
+A: Each student gets 200 pages per semester.
+
+Q: How do I top up printing credit?
+A: Go to printing.wandw.ac.nz
+, login, and add a minimum of $2 credit.
+
+Chunk 15 – Printing Costs
+
+Q: What are printing costs?
+A:
+
+A4 B/W: $0.05
+
+A4 Colour: $0.15
+
+A3 B/W: $0.10
+
+A3 Colour: $0.30
+
+Q: What is the campus printer name?
+A: Smart_Print.
+
+Chunk 16 – Printing & Scanning
+
+Q: How do I use my student ID for printing?
+A: Swipe your ID card, then enter username/password the first time to activate it.
+
+Q: Can I scan documents on campus printers?
+A: Yes, place your document in the feeder → select Scan to Email → press Start.
+
+Chunk 17 – Microsoft 365
+
+Q: What apps are included in Microsoft 365 for students?
+A: Word, Excel, PowerPoint, OneNote, Outlook, and OneDrive (100GB storage).
+
+Q: How many devices can I install Microsoft 365 on?
+A: Up to 5 devices.
+
+Chunk 18 – Microsoft 365 Access
+
+Q: Do I keep Microsoft 365 after I finish studying?
+A: No, access ends 90 days after your study finishes. Download or transfer your files before then.
+
+Q: Do returning students regain Microsoft 365 access?
+A: Yes, access is reinstated when you re-enrol.
+
+Chunk 19 – Passwords & Security
+
+Q: How do I reset my password?
+A: Use the Self-Service Password Reset at aka.ms/sspr
+.
+
+Q: What are the password requirements?
+A: At least 10 characters, with uppercase, lowercase, number/symbol, and no personal info like name or birthdate.
+
+Chunk 20 – Password Protection
+
+Q: How do I register for Self-Service Password Reset?
+A: Go to aka.ms/ssprsetup
+ and add a backup email or mobile.
+
+Q: How do I protect myself from phishing?
+A: Check sender addresses and links, avoid suspicious attachments, and report suspicious emails to servicecentre@wandw.ac.nz
+.
+
+Chunk 21 – Moodle
+
+Q: What is Moodle used for?
+A: Moodle is the online platform for study materials, readings, activities, quizzes, assessments, and announcements.
+
+Q: Where do I access Moodle?
+A: At moodle.whitireiaweltec.ac.nz
+.
+
+Chunk 22 – Moodle Login & App
+
+Q: How do I log in to Moodle?
+A: Use your student username and password.
+
+Q: Is there a Moodle mobile app?
+A: Yes, download the Moodle app from your app store.
+
+Chunk 23 – Library Borrowing
+
+Q: How many items can I borrow from the library at once?
+A: Up to 20 items.
+
+Q: How long can I borrow books for?
+A: Standard items: 3 weeks (renewable twice). Short-term items: 7-day or 2-hour loans (not renewable).
+
+Chunk 24 – Library Returns & Fines
+
+Q: Can I renew borrowed books?
+A: Yes, online via Catalogue Login, up to 2 times unless the item is reserved.
+
+Q: What happens if I don’t return a book?
+A: Borrowing is suspended after 28 days, and an invoice is issued. Debts may block graduation and go to debt collection.
+
+Chunk 25 – SMART Libraries & eResources
+
+Q: What is a SMART Library?
+A: A partnership with local councils (Hutt, Porirua, Kāpiti, etc.) allowing shared catalogues and borrowing.
+
+Q: Can I access eBooks online?
+A: Yes, via the library catalogue.
+
+Chunk 26 – Online Resources
+
+Q: How do I access online databases off-campus?
+A: Always login via the Library Website or Moodle using your institutional email + password.
+
+Q: What are examples of key resources?
+A: O’Reilly Learning, ProQuest eBook Central, ClinicalKey, and Australian Standards.
+
+Chunk 27 – A Block
+
+Q: What is on Level 2 of A Block?
+A: Classrooms and office space.
+
+Q: What is on Level 1 of A Block?
+A: Campus services, classrooms, and office space.
+
+Chunk 28 – B Block
+
+Q: What is located at B Block?
+A: The Shuttle Bus stop.
+
+Chunk 29 – C Block
+
+Q: What is on Level 3 of C Block?
+A: Classrooms.
+
+Q: What is on Level 2 of C Block?
+A: Offices and Electrical workshops.
+
+Q: What is on Level 1 of C Block?
+A: Classrooms and Electrical workshops.
+
+Q: Where is ICT Services in C Block?
+A: On Level 1, courtyard between B and C Blocks (Room C124).
+
+Chunk 30 – N Block
+
+Q: What is in N Block?
+A: Mechanical Engineering workshops, Automotive workshops, and Plumbing, Gas, and Drainlaying workshops.
+
+Chunk 31 – O Block
+
+Q: What is in O Block?
+A: Te Whare Makawae – Hair on Campus, Aria Beauty, and Electrical workshops.
+
+Chunk 32 – R Block
+
+Q: What is in R Block?
+A: Bistro 107 and Hospitality classrooms.
+
+Chunk 33 – Tower Block (general)
+
+Q: What is in the Tower Block Levels 3–7?
+A: Classrooms and office space.
+
+Q: What is on Level 2 of the Tower Block?
+A: Library, Learning Commons, Classrooms, and the Sky Bridge to A Block.
+
+Q: What is on Level 1 of the Tower Block?
+A: Reception, Te Whare Āwhina, International reception, Student hub, and Café.
+
+Chunk 34 – Campus Entrances & Parking
+
+Q: Where is the main entrance to the Petone Campus?
+A: On Kensington Avenue, opposite the main car park.
+
+Q: Where are campus car parks located?
+A: Near the Buick Street and Cuba Street entrances.
+
+Chunk 35 – Shuttle & Bus Stops
+
+Q: Where is the Shuttle Bus stop on campus?
+A: Beside B Block.
+
+Q: Where is the public bus stop near campus?
+A: Along Udy Street.
