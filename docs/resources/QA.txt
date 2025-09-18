@@ -241,6 +241,8 @@ A: Always login via the Library Website or Moodle using your institutional email
 Q: What are examples of key resources?
 A: O’Reilly Learning, ProQuest eBook Central, ClinicalKey, and Australian Standards.
 
+## QA_buildings_locations_chunks.txt – WelTec School of IT Helpdesk AI
+
 Chunk 27 – A Block
 
 Q: What is on Level 2 of A Block?
@@ -309,3 +311,135 @@ A: Beside B Block.
 
 Q: Where is the public bus stop near campus?
 A: Along Udy Street.
+
+## QA_chunks_assessment.txt – WelTec Assessment Requirements
+Chunk 1 – General Responsibilities
+
+Q: What are students responsible for in assessments?
+A: Students must meet the assessment and examination requirements set out in the A1-R1 Academic Statute and course/programme requirements.
+
+Q: What academic integrity rules apply when doing assessments?
+A: Students must submit their own original work, protect it from being copied, acknowledge all sources, and only submit group work if permitted.
+
+Chunk 2 – Assessment Feedback
+
+Q: When should I expect feedback on my assessments?
+A: You should receive assessment feedback and results within 15 working days of the assessment date, unless programme regulations set a different timeframe.
+
+Chunk 3 – Late Submissions
+
+Q: What happens if I don’t submit an assessment by the due date without an extension?
+A: It is counted as your first assessment attempt. If you still hand it in, it will be treated as a Further Assessment Attempt.
+
+Q: Can I submit after the course end date?
+A: No, unless you have an approved extension.
+
+Chunk 4 – Return of Work
+
+Q: Am I entitled to get my assessments back?
+A: Yes, you are entitled to the return of your written work (or a copy). Some assessments may only be shown under controlled conditions, as stated in the course outline.
+
+Q: How long do I have to collect my assessment work?
+A: Within six weeks of the course end date, after official academic notification.
+
+Chunk 5 – Te Reo Māori / Sign Language & Special Assistance
+
+Q: Can I submit assessments in Te Reo Māori or New Zealand Sign Language?
+A: Yes, but you must notify the Programme Manager within 10 working days of starting the course.
+
+Q: What should I do if I need special assistance for assessments?
+A: Contact Student Support at the beginning of the course. They will consult with your tutor to arrange assistance.
+
+Chunk 6 – Plagiarism
+
+Q: What is plagiarism?
+A: Plagiarism is using someone else’s work without acknowledgement (APA referencing). Examples include: copying another student, re-using old work, submitting group work as individual work, or submitting work written by someone else.
+
+Q: What happens if I commit plagiarism?
+A: Allegations are handled under the Academic Integrity Procedures.
+
+Chunk 7 – Extensions
+
+Q: How do I request an extension for an assessment?
+A: Apply at least two working days before the due date. You may request a later due date for an assessment or a new date/time for a supervised assessment/exam.
+
+Q: What happens if an extension for a supervised assessment is approved?
+A: You will be required to sign an Honesty Declaration.
+
+Chunk 8 – Extensions for Postgraduate Students
+
+Q: Can postgraduate students request thesis or project extensions?
+A: Yes, they may request a thesis/research project extension. There may be an additional fee.
+
+Q: Can postgraduate students suspend their enrolment?
+A: Yes, once only. During suspension you cannot submit work, access your supervisor/Programme Manager, or library services.
+
+Chunk 9 – Further Assessment Attempts (general)
+
+Q: What is a Further Assessment Attempt?
+A: A second opportunity if you don’t pass an assessment. It may be improving a submission or completing a new but similar assessment.
+
+Q: When must I request a further attempt?
+A: Within five (5) working days of either:
+
+Receiving an unsuccessful result, or
+
+The original due date (if you missed submission without extension).
+
+Chunk 10 – Further Assessment Attempt (rules)
+
+Q: When must further assessment attempts be completed?
+A: Before the start of the next teaching period/offering.
+
+Q: What grade is given if you pass a further attempt?
+A: You receive the minimum pass result for that assessment.
+
+Q: Do further attempts appear on official academic records?
+A: No, they are recorded internally only.
+
+Chunk 11 – Further Supervised Assessment Attempt (Final Exam)
+
+Q: Can I have a second attempt at a final supervised exam?
+A: Yes, under these conditions: you failed your first attempt, completed all in-course assessments, would pass with a further attempt, request within 5 working days, and pay any consumable fees.
+
+Q: Can poor attendance affect exam re-attempts?
+A: Yes, poor attendance may prevent you from having a second attempt.
+
+Q: How many further supervised exam attempts are allowed?
+A: Only one. If successful, you get the minimum pass grade.
+
+Chunk 12 – Aegrotat Circumstances
+
+Q: What is an aegrotat pass?
+A: A grade granted when illness or exceptional circumstances impair performance in achievement-based assessments where extensions are not possible.
+
+Q: What evidence is needed for an aegrotat pass?
+A: A medical certificate (within 3 days of assessment) or independent documentary evidence of exceptional circumstances.
+
+Chunk 13 – Aegrotat Conditions
+
+Q: When can I apply for an aegrotat pass?
+A: If circumstances outside your control prevented or impaired your performance, and prior course results show you likely would have passed.
+
+Q: When must requests for an aegrotat pass be made?
+A: Ideally before the assessment, or no later than five (5) working days after.
+
+Chunk 14 – Challenging Results
+
+Q: How can I challenge an assessment result?
+A: First, discuss concerns with your tutor. If still unresolved, you may request:
+
+A re-count of marks (within 5 working days), or
+
+A formal review by the Programme Manager (within 5 working days) if criteria were not applied correctly or procedures were irregular.
+
+Q: What happens after a challenge is submitted?
+A: The Programme Manager may arrange re-evaluation by another assessor. The higher of the two results is final.
+
+Chunk 15 – Assessment Results & Grades
+
+Q: How are final grades approved?
+A: Final course grades are formally approved before being added to your student record.
+
+Q: When are final results available?
+A: Within 25 working days from the course end date.
