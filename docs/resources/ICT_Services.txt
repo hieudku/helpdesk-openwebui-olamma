@@ -1,0 +1,119 @@
+## ICT Services (Whitireia & WelTec Students)
+
+ **VPN & Remote Access**
+  * VPN server:** vpn2.weltec.ac.nz
+  * Login format:** `soit\username`
+  * Password:** same as Google Classroom password
+  * If login fails:** email Helpdesk (help@it.weltec.ac.nz)
+
+ **IT Support**
+  * Services include: Account support, Eduroam Wi-Fi, Moodle, Microsoft 365
+  * Open hours: Monday–Friday, 8am–4pm
+  * Drop-in support:
+
+    * Petone: Room C124 (courtyard between B and C Blocks)
+    * Porirua: Room D307 (behind café, next to Campus Services)
+  * Phone: 04 830 3150
+  * Email: [servicecentre@wandw.ac.nz](mailto:servicecentre@wandw.ac.nz)
+
+ **Systems and Services**
+
+  * Computer Access: Available in Learning Commons & Library. Login with student ID + password
+  * Eduroam Wi-Fi: Free roaming Wi-Fi for students (NZ + overseas)
+  * Microsoft Office 365: Free for students (Word, Excel, PowerPoint, Outlook, OneDrive)
+  * Self-Service Password Reset: Reset or unlock account anytime using mobile/email verification
+  * Moodle: Main platform for courses, resources, and assessments
+  * Bring Your Own Device (BYOD): Students may bring laptops; check programme requirements. Retailers offer student deals
+  * Computer Use Policy: Responsibilities for safe, secure use of devices and systems
+
+ **Campus Computers**
+
+  * Login: Student username (ID number) + password
+  * Saving files: Do not save to desktop/local drive (files erased). Always save to Microsoft OneDrive
+  * Software on computers: Windows 10 with Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Access, Publisher) plus Edge and Chrome browsers
+  * Apple computers: Available if required by programme. Includes Microsoft 365 apps
+  * School of IT (SoIT) computers: Require separate username and password. Located at Petone Campus, Tower Block, Levels 5–6
+  * Printing: Print from any campus computer by sending to printer named **Smart\_Print**
+  * Internet usage: Free when using campus computers. Usage is logged and monitored
+
+
+## Student Email
+ **Platform:** Microsoft 365 Outlook (official academic communication channel)
+ **Format:** firstname.lastname##@student.wandw\.ac.nz or firstname.lastname##@whitireianz.ac.nz
+ **New students:** Email, username, and initial password sent to personal email after enrolment. Must update password before accessing systems
+ **Returning students:** Keep same student email; no need for a new one. Contact ICT Services if details forgotten
+ **Access:** Go to [outlook.office.com](https://outlook.office.com) → login with student email + password
+ **Forwarding:** Outlook → Settings → Mail → Forwarding → Enable forwarding. Option to keep a copy of forwarded messages
+
+
+## Eduroam Wi-Fi
+ **About:** Free, secure Wi-Fi across all Whitireia & WelTec campuses and global Eduroam partner institutions
+ **Access:** Search for "eduroam" in Wi-Fi list → login with student email + password
+ **Android setup:**
+
+  * EAP method: PEAP
+  * Phase 2 authentication: MSCHAPV2
+  * Certificate: Do not validate/None
+ **Troubleshooting:** Download **geteduroam app** (iOS, Android, Windows) for simpler setup
+ **Password changes:** Update saved Eduroam password after changing your student account password
+ **Compatibility:** Supported on Windows 10/11, macOS (10.4+), iOS 15.8+, Android 6+, ChromeOS (current versions). Older systems may fail to connect
+
+
+## Printing & Photocopying
+ **Devices:** Multi-Function Devices (MFDs) across campus (Learning Commons, near classrooms)
+ **Access:** Swipe student ID card → enter username/password first time to activate card → swipe for future logins
+ **Printer name:** **Smart\_Print** (send jobs from campus computers only)
+ **Costs (per side):**
+
+  * A4 B/W: \$0.05
+  * A4 Colour: \$0.15
+  * A3 B/W: \$0.10
+  * A3 Colour: \$0.30
+ **Top-up:** [printing.wandw.ac.nz](https://printing.wandw.ac.nz) → login → add min \$2 credit (non-refundable)
+ **Copying:** Place in feeder → select Copy → Start
+ **Scanning:** Place in feeder → select Scan to Email → Start
+
+
+## Microsoft 365
+ **Access:** Free for all enrolled students. Login at [microsoft365.com](https://microsoft365.com)
+ **Apps:** Word, Excel, PowerPoint, OneNote, Outlook, OneDrive (100GB storage)
+ **Devices:** Install on up to 5 devices or use online versions
+ **Features:**
+
+  * Store/share files via OneDrive
+  * Collaborative editing (Word, Excel, PowerPoint)
+  * OneNote for synced notes
+  * Manage email & calendar in Outlook
+ **After study:** Access ends 90 days post-study → download/transfer files before expiry
+ **Returning students:** Access reinstated when re-enrolled
+
+
+## Protect Yourself Online
+ **Phishing & scams:** Check sender addresses and links; avoid suspicious clicks
+ **Attachments:** Open only if trusted; confirm unexpected files with sender
+ **Spam:** Report suspicious emails to [servicecentre@wandw.ac.nz](mailto:servicecentre@wandw.ac.nz)
+ **Passwords:** At least 10 characters, mix of letters/numbers/symbols, avoid personal info, use unique passwords for each account
+
+
+## Moodle
+ **About:** Online platform for study materials, readings, activities, quizzes, assessments, announcements
+ **Access:** [moodle.whitireiaweltec.ac.nz](https://moodle.whitireiaweltec.ac.nz) → login with student username + password
+ **Dashboard:** Shows all enrolled courses → click to access course content
+ **Mobile app:** Download Moodle app from app store for on-the-go access
+ **Support:**
+
+  * Login issues → [servicecentre@wandw.ac.nz](mailto:servicecentre@wandw.ac.nz)
+  * Missing content → [learntech.freshdesk.com](https://learntech.freshdesk.com)
+
+
+## Password Reset
+* **Self-Service Password Reset (SSPR):**
+
+  * Register: [aka.ms/ssprsetup](https://aka.ms/ssprsetup) with mobile/email backup
+  * Reset/unlock: [aka.ms/sspr](https://aka.ms/sspr) when locked out
+ **Process:** Verification code sent via text/email → enter code → reset password
+ **Password rules:**
+
+  * Minimum 10 characters
+  * At least one uppercase, one lowercase, one number/symbol
+  * Avoid using name, birthdate, or student ID
