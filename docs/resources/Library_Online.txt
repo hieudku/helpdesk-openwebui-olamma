@@ -1,0 +1,57 @@
+## Library Services
+
+### Membership
+
+ **Eligibility:** Free for students (ākonga), staff (kaimahi), and SMART library cardholders
+ **ID card:** Student/staff ID card = borrower card + SMART membership card
+ **Suspensions:** Borrowing suspended if items not returned within 28 days → invoice generated
+
+### Loans
+
+ **Loan periods:**
+
+  * Standard items: 3 weeks, renewable twice
+  * Short-term items: 7-day and 2-hour loans (not renewable)
+ **Borrow limit:** Up to 20 items at one time
+ **Renewals:** Online via Catalogue Login → max 2 renewals unless item reserved
+
+### Returns
+
+ **Where:** Return items to any Whitireia/WelTec or SMART library
+ **Overdue:** No daily fines, but invoiced if overdue more than 28 days
+ **Lost copies:** Charged at purchase cost; debt recorded in Student Management System. Unpaid invoices after 6 months sent to debt collection. May prevent graduation
+
+### SMART Libraries
+
+ **Partners:** Hutt City, Porirua City, Kāpiti Coast, South Wairarapa, Masterton
+ **Access:** Search SMART catalogue, reserve items, and pick up from any Whitireia/WelTec campus library
+
+
+## Library Locations & Hours
+
+ **Petone Campus:** Mon–Thu 8:30am–5:00pm, Fri 8:30am–5:00pm, closed weekends
+ **Porirua Campus:** Mon–Thu 8:30am–5:00pm, Fri 8:30am–4:30pm, closed weekends
+ **Te Kāhui Auaha Campus (Wellington):** Tue–Wed 9:00am–1:00pm, other days staff access only
+ **Public Holidays:** All libraries closed
+ **Note:** Hours listed for Trimesters 1 & 2. Hours may change during Trimester 3
+
+
+## Online Resources
+
+### Access
+
+ **Available:** Databases, dictionaries, encyclopedias, eBooks, news & media, standards, videos
+ **Search:** Use library catalogue (Search Everything) to expand to all e-resources
+
+### Off-campus access
+
+ **Login:** Use Whitireia/WelTec institutional email + password
+ **Error handling:** Always access databases via the Library Website or Moodle, not Google
+
+### Key Resources
+
+ **eBooks:** Available via library catalogue (look for access link in record)
+ **Australian Standards:** Requires account registration via Intertek Inform
+ **O’Reilly Learning:** Access with institutional email, follow O’Reilly Guide
+ **ClinicalKey for Nursing/Student:** First login with institutional email + password. Passwords do not auto-update with network password—remember it separately
+ **ProQuest eBook Central:** Access via ProQuest Guide
